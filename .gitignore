@@ -18,3 +18,11 @@ __pycache__
 .env.local
 .next
 .github
+credentials
+
+# Android signing
+key.properties
+*.jks
+*.keystore
+
+_agents/
