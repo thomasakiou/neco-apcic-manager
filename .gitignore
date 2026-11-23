@@ -26,3 +26,5 @@ key.properties
 *.keystore
 
 _agents/
+
+neco-mobile-video/
